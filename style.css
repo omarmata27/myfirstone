@@ -1,0 +1,10 @@
+.b {
+    color: red;
+}
+
+.container {
+    background-color: pink;
+    width: 100%;
+    height: 50px%;
+    display: flex;
+}
